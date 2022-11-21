@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<onlineShop>
+    <productList>
+        <description>G5 Samsung Monitor 34 Zoll 144Hz</description>
+        <id>1</id>
+        <imageUrl>https://th.bing.com/th/id/R.c54ebd4e391565cd222e58c1d3b8d7e5?rik=lkzQ4yy%2fmIUTkQ&amp;pid=ImgRaw&amp;r=0</imageUrl>
+        <name>PC Monitor</name>
+        <price>250.0</price>
+    </productList>
+    <productList>
+        <description>RTX 2080TI</description>
+        <id>2</id>
+        <imageUrl>https://img.flaticon.com/icons/png/512/3826/3826132.png?size=1200x630f&amp;pad=10,10,10,10&amp;ext=png&amp;bg=FFFFFFFF</imageUrl>
+        <name>Grafikkarte</name>
+        <price>670.0</price>
+    </productList>
+    <productList>
+        <description>MSI BM250</description>
+        <id>3</id>
+        <imageUrl>https://th.bing.com/th/id/R.a0ea955929686127ddae0a657a55fb68?rik=jBV7JAVh1%2bl70w&amp;pid=ImgRaw&amp;r=0</imageUrl>
+        <name>Motherboard</name>
+        <price>400.0</price>
+    </productList>
+    <productList>
+        <description>Razer Maus</description>
+        <id>4</id>
+        <imageUrl>https://th.bing.com/th/id/R.64e07e0bdcc0b23e22294ec356a8c88b?rik=aTjgdYz2oK4moQ&amp;pid=ImgRaw&amp;r=0</imageUrl>
+        <name>Maus</name>
+        <price>30.0</price>
+    </productList>
+    <productList>
+        <description>Razer Keyboard</description>
+        <id>5</id>
+        <imageUrl>https://th.bing.com/th/id/R.897b12c7badaebbfcdf0da45c6c6e09d?rik=pqRpr9V2o1I%2b1Q&amp;pid=ImgRaw&amp;r=0</imageUrl>
+        <name>Tastatur</name>
+        <price>200.0</price>
+    </productList>
+    <userList>
+        <password>admin</password>
+        <username>admin</username>
+    </userList>
+    <userList>
+        <password>user</password>
+        <username>user</username>
+    </userList>
+</onlineShop>

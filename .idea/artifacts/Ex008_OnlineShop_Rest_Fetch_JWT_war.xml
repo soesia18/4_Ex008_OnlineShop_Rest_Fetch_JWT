@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Ex008_OnlineShop_Rest_Fetch_JWT:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Ex008_OnlineShop_Rest_Fetch_JWT</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Ex008_OnlineShop_Rest_Fetch_JWT-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Ex008_OnlineShop_Rest_Fetch_JWT:war exploded" />
+    </root>
+  </artifact>
+</component>
